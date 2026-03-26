@@ -1,4 +1,4 @@
 Này của nhan bao 
 Nội dung của test
 Pull thử lên trang GitHub.com
-Dùng SmartGit
+Dùng Trang web để tạo conflict
