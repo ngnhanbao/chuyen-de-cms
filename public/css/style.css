@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; }
+.container { width: 80%; margin: auto; background: white; border: 1px solid #ccc; min-height: 500px; display: flex; flex-direction: column; }
+header, footer { border: 1px solid #333; margin: 10px; padding: 5px; text-align: center; }
+nav { border: 1px solid #333; margin: 0 10px; padding: 10px; text-align: center; font-size: 0.9em; }
+nav a { margin: 0 5px; text-decoration: none; color: blue; }
+.main-content { flex: 1; display: flex; justify-content: center; align-items: center; padding: 20px; }
+.form-box { border: 1px solid #333; padding: 30px; width: 400px; text-align: left; }
+.form-box h2 { text-align: center; margin-top: 0; }
+.form-group { margin-bottom: 15px; display: flex; align-items: center; }
+.form-group label { width: 100px; }
+.form-group input[type="text"], .form-group input[type="password"], .form-group input[type="email"] { flex: 1; padding: 5px; }
+.btn-blue { background-color: #0056b3; color: white; border: none; padding: 8px 15px; cursor: pointer; border-radius: 4px; float: right; }
+.table-user { width: 100%; border-collapse: collapse; margin-top: 10px; }
+.table-user th, .table-user td { border: 1px solid #333; padding: 8px; text-align: center; }
